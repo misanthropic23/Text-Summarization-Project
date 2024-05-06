@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ ="0.0.0"
 
-REPO_NAME = "Text-Summarization" # Name in the github repository
+REPO_NAME = "TextS" # Name in the github repository
 AUTHOR_USER_NAME = "misanthropic23" # github name
 SRC_REPO = "textSummarizer"        # Name in the src folder (src/"the-name-present-here")
 AUTHOR_EMAIL = "shanu436833@gmail.com"
